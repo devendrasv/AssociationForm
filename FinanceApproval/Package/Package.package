@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="07a79d0b-4463-4219-816b-eb83aaa6ec4f" 
+        solutionId="07a79d0b-4463-4219-816b-eb83aaa6ec4f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="FinanceApproval"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="207c427d-8c9e-4550-a6ff-6189f2722828" />
+  </features>
+</package>
